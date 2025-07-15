@@ -1,0 +1,70 @@
+Name : Eleojo
+Accountability Partner : Tobore
+Group name: DevCareer
+
+DevOps process diagram:
+                      +---------------+
+                      |  Plan        |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Code        |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Build       |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Test        |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Release     |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Deploy      |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Monitor     |
+                      +---------------+
+                             |
+                             |
+                             v
+                      +---------------+
+                      |  Feedback    |
+                      +---------------+
+
+Explanation of Each Stage
+1. Plan: Define project goals, requirements, and timelines.
+2. Code: Write and review code.
+3. Build: Compile and package code into executable files.
+4. Test: Run automated tests to ensure code quality.
+5. Release: Prepare code for deployment.
+6. Deploy: Deploy code to production environment.
+7. Monitor: Monitor application performance and logs.
+8. Feedback: Gather feedback from users and stakeholders.
+
+DevOps Tools Used in Each Stage
+1. Plan: Project management tools like Jira, Trello.
+2. Code: Version control systems like Git.
+3. Build: Build automation tools like Jenkins, Maven.
+4. Test: Testing frameworks like JUnit, Selenium.
+5. Release: Release management tools like Ansible, Puppet.
+6. Deploy: Deployment tools like Docker, Kubernetes.
+7. Monitor: Monitoring tools like Prometheus, Grafana.
+8. Feedback: Feedback tools like surveys, analytics software.
